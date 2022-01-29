@@ -10,5 +10,8 @@
     
         <h1>GIT REMOT MENGGUNAKAN PHP</h1>
             <p>proses tidak akan menghianati hasil</p>
+            <p>jangan menyerah ketika error cari solusinya</p>
+            <p>jangan malu untuk belajar</p>
+            <p>nasib kita yang menentukan kita sendiri bukan orang lain </p>
 </body>
 </html>
